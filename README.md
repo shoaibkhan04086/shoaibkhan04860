@@ -1,12 +1,9 @@
-### Hi there, I'm Shoaib Khan! 👋
+<h1 align="center">Hi there, I'm Shoaib Khan! 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibkhan04086&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibkhan04086" /> </p>
 
-![Shoaib Khan Banner](https://raw.githubusercontent.com/shoaibkhan04860/shoaibkhan04860/main/assets/banner.png)
 
-<p align="center">
-  <img src="https://github.com/shoaibkhan04860/shoaibkhan04860/blob/main/assets/coding.gif" width="200" height="200" />
-</p>
 
-MCA student with expertise in SQL, Python, Django, Statistics, Machine Learning and Power BI—adept at transforming business challenges into actionableinsights and seeking a role to leverage advanced analytics and visualization skills to drive performance improvements and sustainable growth.
+<h3 align="center"> MCA student with expertise in SQL, Python, Django, Statistics, Machine Learning and Power BI—adept at transforming business challenges into actionableinsights and seeking a role to leverage advanced analytics and visualization skills to drive performance improvements and sustainable growth. </h3>
 ### 🚀 Skills & Technologies:
 
 #### Programming:
@@ -41,13 +38,11 @@ MCA student with expertise in SQL, Python, Django, Statistics, Machine Learning 
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan04860&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan04860&theme=tokyonight" alt="GitHub Streak" width="400px" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaibkhan04086&show_icons=true&locale=en&layout=compact" alt="shoaibkhan04086" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan04086&" alt="shoaibkhan04086" /></p>
 
 ### 🎯 Featured Projects:
-- **[Patient LoS - Data Science Web App](https://github.com/shoaibkhan04860/Patient-LoS)** - A web application for predicting patient length of stay using machine learning.
+- **[Vrinda Store Data Analysis](https://github.com/shoaibkhan04086/Vrinda-Store-Data-Analysi)** - The Vrinda Store Data Analysis project is a comprehensive data analytics Project.
 - **[Real-Time Next-Word Prediction](https://github.com/shoaibkhan04860/Next-Word-Prediction)** - NLP-based predictive text system for Hinglish language.
 - **[Crop Production Analysis](https://github.com/shoaibkhan04860/Crop-Production-Analysis)** - A Power BI dashboard analyzing crop production trends in India.
 
@@ -56,6 +51,7 @@ MCA student with expertise in SQL, Python, Django, Statistics, Machine Learning 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://shoaibkhan04086.github.io/ShoaibKhan.Portfolio/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shoaibkhan04860)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/82shoaib/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibkhan04860@gmail.com)
 
 ### 🎉 Fun Fact:
 💡 I enjoy working with **AI-driven analytics** and solving real-world problems with data!
