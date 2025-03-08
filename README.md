@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shoaib khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MCA student with expertise in SQL, Python, Django, and Power BI—adept at transforming business challenges into actionable
+insights and seeking a Data Analyst role to leverage advanced analytics and visualization skills to drive performance improvements
+and sustainable growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibkhan04860&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibkhan04860" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaibkhan04860" alt="shoaibkhan04860" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
