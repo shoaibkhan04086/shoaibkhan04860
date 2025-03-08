@@ -52,8 +52,8 @@ MCA student with expertise in SQL, Python, Django, Statistics, Machine Learning 
 - **[Crop Production Analysis](https://github.com/shoaibkhan04860/Crop-Production-Analysis)** - A Power BI dashboard analyzing crop production trends in India.
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shoaib-khan-07](https://www.linkedin.com/in/shoaib-khan-19825629a))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)]([https://shoaibkhan.dev](https://shoaibkhan04086.github.io/ShoaibKhan.Portfolio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shoaib-khan-19825629a](https://www.linkedin.com/in/shoaib-khan-19825629a/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)]([https://ShoaibKhan.Portfolio](https://shoaibkhan04086.github.io/ShoaibKhan.Portfolio/))
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shoaibkhan04860)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/82shoaib/)
 
